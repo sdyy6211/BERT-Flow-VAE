@@ -1,2 +1,2 @@
 # BERT-Flow-VAE
-Codes of BERT-Flow-VAE (BFV)
+Codes for BERT-Flow-VAE (BFV)
