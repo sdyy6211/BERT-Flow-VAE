@@ -8,3 +8,4 @@ numpy>=1.21
 torch>=1.12
 tqdm>=4.6
 tensorboard==2.8.0
+protobuf==3.20.*
